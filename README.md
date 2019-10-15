@@ -1,6 +1,13 @@
 # stisl
-Sing Language to text conversion of India Sign Language.
-Data augmentation is used to train model with small dataset. Results are still being tested. 
-Data set is not yet uploaded. Kaggle link will be uploaded soon.
-model.png and model_plot.png are for the dataset containing 24 alphabets (two alphabets are removed 
-i.e., Z and D).
+# Sign Language to text conversion of India Sign Language.
+Download dataset of 26 alphabets represented in Indian Sign Language from this [link](https://drive.google.com/open?id=1BKbNRvf79p63Wt9se7mGsIe0q1uvLjyt). And put that in the repository downloaded from this repo.
+# Reqirements
+python
+openCV
+Keras
+tensorflow
+sklearn
+matplotlib
+# Usage
+Run the code "trainvgg.py" to train your network and save results to require directory.
+model.png and model_plot.png are for the dataset containing 26 alphabets.
