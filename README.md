@@ -9,5 +9,5 @@ tensorflow
 sklearn
 matplotlib
 # Usage
-Run the code "trainvgg.py" to train your network and save results to require directory.
+Run the code "train_vgg.py" to train your network and save results to require directory.
 model.png and model_plot.png are for the dataset containing 26 alphabets.
