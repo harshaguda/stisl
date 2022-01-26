@@ -17,3 +17,5 @@ matplotlib
 Run the code "train_vgg.py" to train your network and save results to require directory.
 
 model.png and model_plot.png are for the dataset containing 26 alphabets.
+# Paper
+You can find paper published in this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576354)
